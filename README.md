@@ -33,7 +33,7 @@
             <td>weatherApp</td>
             <td><a href="https://github.com/NurKevser/weather-app" target="_blank">Repo details</a></td>
             <td><a href="https://nurkevser.github.io/weather-app/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="#" alt="html" height=130></td> 
+            <td><img style="width:500px;" src="./images/weather.jpg" alt="html" height=130></td> 
         </tr>
 </tbody>
 </table>
